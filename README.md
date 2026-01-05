@@ -1,16 +1,33 @@
-## Hi there 👋
+## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
-<!--
-**rebecaalvareztech/rebecaalvareztech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Desenvolvimento e UiUx Design; 
+- 🛠️ Experiência em: html, css (bootstrap, tailwindcss e Sass), javascript (ReactJS), Material Design, Figma, SEO.
+- 📜 AWS Certified Cloud Practitioner CLF-C02 
 
-Here are some ideas to get you started:
+##
+ 
+#### Tecnologias 
+<div style="display: inline_block"><br>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/>&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/>&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50px"/>&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50px"/>&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50px"/>&nbsp;
+    <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px"/>&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50px"/>&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="50px"/>&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50px"/>&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50px"/>&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50px"/>&nbsp;
+                           
+</div>                          
+          
+##
+  
+<h5>Contatos </h5>
+<div>
+  <a href="mailto:rebecaalvareztech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
