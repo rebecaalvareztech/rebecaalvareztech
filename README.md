@@ -1,7 +1,7 @@
 ## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
 - 🔭 Desenvolvimento e UiUx Design; 
-- 🛠️ Experiência em: html, css (bootstrap, tailwindcss e Sass), javascript (ReactJS), Material Design, Figma, SEO.
+- 🛠️ Experiência em: html, css (bootstrap, tailwindcss e Sass), javascript (ReactJS), Material Design, Figma, SEO, Scanner de acessibilidade.
 - 📜 AWS Certified Cloud Practitioner CLF-C02 
 
 ##
