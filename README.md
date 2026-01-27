@@ -3,7 +3,7 @@
 - 🔭 Desenvolvimento, DevSecOps e Cloud Computing; 
 - 🌱 Estudando Python, SQL, Docker, Linux, AWS, Gitlab, Devops e Cibersecurity;
 - 🛠️ Experiência em: html, css (bootstrap e tailwindcss) e javascript (ReactJS).
-- 📜 AWS Certified Cloud Practitioner CLF-C02 
+- 📜 AWS Certified Cloud Practitioner CLF-C02: [Credential Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/0cea5ea989514268831b7dbbbbad465f)
 
 ##
  
