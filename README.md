@@ -1,7 +1,7 @@
 ## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
-- 🔭 Desenvolvimento e Cloud Computing; 
-- 🌱 Estudando Python, SQL, Docker, Linux, AWS, Gitlab Devops e Cibersecurity;
+- 🔭 Desenvolvimento, DevSecOps e Cloud Computing; 
+- 🌱 Estudando Python, SQL, Docker, Linux, AWS, Gitlab, Devops e Cibersecurity;
 - 🛠️ Experiência em: html, css (bootstrap e tailwindcss) e javascript (ReactJS).
 - 📜 AWS Certified Cloud Practitioner CLF-C02 
 
